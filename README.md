@@ -74,6 +74,16 @@ Compared all models using:
 
 ---
 
+## 📸 App Screenshots
+
+### 🖥️ Application Interface
+![App Interface](images/app_interface.png)
+
+### ✅ Prediction in Action
+![Prediction Result](images/prediction_result.png)
+
+---
+
 ## 📈 Key Insights
 
 - **CIBIL Score** is the strongest predictor of loan approval
@@ -117,6 +127,10 @@ loan-approval-prediction/
 ├── app/
 │   └── streamlit_app.py
 │
+├── images/
+│   ├── app_interface.png
+│   └── prediction_result.png
+│
 ├── report/
 │   └── project_report.md
 │
@@ -129,7 +143,7 @@ loan-approval-prediction/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/loan-approval-prediction.git
+git clone https://github.com/rider-04/loan-approval-prediction.git
 cd loan-approval-prediction
 ```
 
